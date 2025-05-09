@@ -10,7 +10,7 @@ function ToggleStatus() {
     e.preventDefault();
 
     try {
-      const response = await fetch('https://bandhayaopen-backend.onrender.com//toggle', {
+      const response = await fetch('https://bandhayaopen-backend.onrender.com/toggle', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

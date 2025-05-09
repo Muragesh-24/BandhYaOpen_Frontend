@@ -7,7 +7,7 @@ function ShopsPage() {
     // Fetch all shops from backend
     const fetchShops = async () => {
       try {
-        const response = await fetch('https://bandhayaopen-backend.onrender.com//allShops');
+        const response = await fetch('https://bandhayaopen-backend.onrender.com/allShops');
         const data = await response.json();
 
         if (response.ok) {

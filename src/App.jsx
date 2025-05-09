@@ -52,7 +52,7 @@ function App() {
     return(
        <div className='mainDash'>
      <nav className='Nav'>
-     <h2 className='logo'>𝗢𝗽𝗲𝗻𝘆𝗮𝗕𝗮𝗻𝗱𝗵(Control Portal) 🏪</h2> 
+     <h2 className='logo'>𝗢𝗽𝗲𝗻𝘆𝗮𝗕𝗮𝗻𝗱𝗵 .(Control Portal) 🏪</h2> 
      </nav>
      <div>
       <ToggleStatus/>
