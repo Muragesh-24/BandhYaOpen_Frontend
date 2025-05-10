@@ -21,7 +21,7 @@ function App() {
     const endpoint = isLogin ? "/login" : "/register";
  
     try {
-      const res = await fetch(`https://bandhayaopen-backend.onrender.com/${endpoint}`, {
+      const res = await fetch(`https://bandhayaopen-backend.onrender.com${endpoint}`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
