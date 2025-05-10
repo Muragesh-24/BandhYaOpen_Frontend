@@ -1,12 +1,20 @@
-# React + Vite
+# 🌐 OpenYaBandha
+"OpenYaBandha" was built to solve a simple but common campus problem — "Is that shop open or closed right now?" Students often waste time walking across campus only to find the shop, canteen, or any service point closed.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website provides real-time status updates of shops within the campus, helping students save time and plan better. 
 
-Currently, two official plugins are available:
+OpenYaBandha is a full-stack web application built with ❤️ by Muragesh in just **9 hours**. It's a platform designed for collaboration, ideation, or interaction (based on your vision), and it's my **first-ever hosted backend project** — making a step forward in my dev journey
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 What it Includes
 
-## Expanding the ESLint configuration
+- ✅ Frontend:  React
+- ✅ Backend: Node.js + Express.js
+- ✅ Database: MongoDB Atlas (cloud hosted)
+- ✅ API: RESTful API endpoints for creating and retrieving data
+- ✅ Hosting: Hosted and running live at https://bandh-ya-open-frontend-git-main-murageshs-projects.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+As a beginner who built this in **just 9 hours**, I’m proud to say everything is live and working — *but* there's one big bug in the website that doesn't affect security(bcz of my presence of mind) or major functionality. I’ll squash that bug soon when I get some time 😅
+
+Also, I plan to add a few **navigation buttons in the navbar** to improve user experience in the next update.
+
+If you like this or want to collaborate, feel free to reach out:
